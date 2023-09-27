@@ -1,0 +1,26 @@
+.container {
+   display: flex;
+   flex-direction: column;
+   width: 750px;
+   border: 1px solid black;
+}
+
+.mail-box {
+   display: flex;
+   border: 1px solid black;
+}
+
+.email {
+   width: 250px;
+   text-align: center;
+}
+
+.subject {
+   width: 250px;
+   text-align: center;
+}
+
+.date {
+   width: 250px;
+   text-align: center;
+}
